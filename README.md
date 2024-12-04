@@ -4,4 +4,4 @@ Based on Android Developer's Project [Create an Art Space App](https://developer
 
 # Gallery
 
-TODO
+<img src="images/image_1.jpeg" />
